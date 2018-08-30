@@ -1,4 +1,7 @@
 # Deep Learning Specialization on Coursera
+# CS294-112 11/20/17, By chapter
+# Reinforcement Introduction， Sutton by chapter
+
 
 **Master Deep Learning, and Break into AI**
 
